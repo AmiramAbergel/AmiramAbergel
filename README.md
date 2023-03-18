@@ -2,7 +2,7 @@
 
 ---
 ### My GitHub Stats Card 📈
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ploy32&hide=issues,prs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmiramAbergel&hide=issues,prs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 - 🌱 Tech I work on:
