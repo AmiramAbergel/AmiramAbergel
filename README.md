@@ -1,8 +1,12 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+Hey there!👋 My name is **Amiram Abergel** and I'm a full-stack developer who loves what I do.  
+I graduated from Reichman University with a degree in Computer Science and I've been working in the field ever since.  🧑‍💻
+
+Nice to meet you!🤝
 
 ---
-- 🌱 Tech I work on:
+- 🌱 **Tech I work on:**
 
 <p align="center">
 
@@ -17,10 +21,11 @@
 </p>
 
 ---
-You can find me on [LinkedIn ![Linkedin](https://i.stack.imgur.com/gVE0j.png) ](https://www.linkedin.com/in/amiram-abergel/).
+- 📫 **You can find me on:**  
+[LinkedIn ![Linkedin](https://i.stack.imgur.com/gVE0j.png) ](https://www.linkedin.com/in/amiram-abergel/)   
 
 
-
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" width="500px">
 
 
 
